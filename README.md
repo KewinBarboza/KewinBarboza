@@ -1,4 +1,11 @@
-<img align="center" src="./image/encabezado.png" />
+<br>
+<br>
+<h2 align="center" dir="auto"> ¡Hola <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>! Soy Kewin Barboza</h2>
+
+<h3 dir="auto" align="center" >👨‍💻 Desarrollador web</h3>
+
+<br>
+<br>
   
 ## 🏅Tecnologías que he usado.
 
